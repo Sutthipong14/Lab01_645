@@ -1,0 +1,23 @@
+.title {
+  border-top: 5px solid #2980b9;
+  padding: 15px;
+  background-color: #3498db;
+  color: #ffffff;
+  left: 50px; 
+}
+.week{
+    color: red;
+}
+.week1{
+    color: blue;
+}
+.holiday{
+    color: red;
+}
+.brithday{
+    color: green;
+}
+.font{
+    font-size: 30px;
+
+}
